@@ -1,0 +1,67 @@
+.box_1
+{
+	background-color: cyan;
+	height: 300px;
+	width: 400px;
+	padding:20px 50px;
+	border: 5px solid blue;
+}
+.center
+{
+	margin:0 auto;
+	display: block;
+}
+.Masterdiv
+{	background-color: black;
+	min-height: 200px;
+	width: 1060px;
+	padding: 50px;
+	opacity: 1;
+	background-blend-mode:luminosity;
+	/*overflow: scroll;*/
+}
+.fallright
+{
+	float: right;
+}
+.fallleft
+{
+	float: left;
+}
+.slightmargin
+{
+	margin-left: 20px;
+}
+.clearfloat
+{
+	clear:both;
+}
+.whiteheader
+{
+	color: white;
+	position: relative;
+	top: 20px;
+	left: 50px;
+}
+.listclass
+{
+	color: white;
+}
+.listclass li
+{
+	list-style-type:none; 
+	display: inline;
+	margin-left: 5px;
+}
+.listclass li:hover
+{
+	font-size: 17px;
+	color:#9799a8;
+}
+body
+{
+	background-image: url("https://images.hdqwalls.com/download/moon-fox-galaxy-4k-79-2048x1152.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: stretch;
+}
